@@ -2,7 +2,7 @@ My first readme
 
 ## Inside 0x01-git:
 
-### Create these directories at the root of your project: bash, c, js
+## Create these directories at the root of your project: bash, c, js
 ### Create these empty files:
 ### c/c_is_fun.c
 ### js/main.js
